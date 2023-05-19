@@ -1,0 +1,23 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.about-container {
+  display: flex;
+  height: 90vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.about {
+  width: 150px;
+  height: 150px;
+}
+h1 {
+  text-align: center;
+  margin-top: 10px;
+}
